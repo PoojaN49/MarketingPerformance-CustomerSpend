@@ -37,7 +37,7 @@ Here is the schema and explanation of each variable in the files:
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Objective
-Our task is to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type through customer segmentation and predict the customer spend for given demographic and type of offer details.
+Our task is to combine transaction, demographic and Discount offer data to determine which demographic groups respond best to which offer type through customer segmentation and predict the customer spend for given demographic and type of offer details.
 
 ## Modelling Stage
 
